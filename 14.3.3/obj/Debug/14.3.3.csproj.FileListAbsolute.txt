@@ -1,0 +1,8 @@
+C:\Repository\Modul14\14.3.3\bin\Debug\14.3.3.exe.config
+C:\Repository\Modul14\14.3.3\bin\Debug\14.3.3.exe
+C:\Repository\Modul14\14.3.3\bin\Debug\14.3.3.pdb
+C:\Repository\Modul14\14.3.3\obj\Debug\14.3.3.csproj.AssemblyReference.cache
+C:\Repository\Modul14\14.3.3\obj\Debug\14.3.3.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Modul14\14.3.3\obj\Debug\14.3.3.csproj.CoreCompileInputs.cache
+C:\Repository\Modul14\14.3.3\obj\Debug\14.3.3.exe
+C:\Repository\Modul14\14.3.3\obj\Debug\14.3.3.pdb
